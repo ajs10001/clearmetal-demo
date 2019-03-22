@@ -1,0 +1,9 @@
+image: python:latest
+
+pipelines:
+  default:
+    - step:
+        script: 
+          - python -m doctest -v mathfunction.py
+          - echo "we're outputting a simple math function"
+          - git push https://heroku:$heroku_api_key@git.heroku.com/$heroku_app_name.git HEAD
