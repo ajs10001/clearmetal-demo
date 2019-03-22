@@ -2,15 +2,7 @@
 
 I have utilized Bitbucket pipelines, a Heroku App and small python script to demonstrate a deployable package with automation, failure collection, notification and build retries.
 
-The following accounts have been created for the purpose of this demo.
-
-Bitbucket Cred.
-alextestemail1000@gmail.com
-6JHFm2z6$vHk
-
-Heroku Cred.
-alextestemail1000@gmail.com
-ZtZD8!rgC3dv
+Please use the credentials included in the email to run the following tasks.
 
 
 ### Bitbucket Demo
