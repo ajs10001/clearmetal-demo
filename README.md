@@ -9,6 +9,8 @@ Please use the credentials included in the email to run the following tasks.
 
 Automation jobs are run by one of two ways, but triggering a commit or manually running the job. Currently, the deployment job is set for hourly.
 
+---> Navigate to bitbucket-clearmetal-demo repository in center of screen after login
+
 To manually run a a job (fastest way to demo)
 1. on left pane, click "Pipelines" 
 2. in center of screen click on any job
